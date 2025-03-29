@@ -1,0 +1,31 @@
+header{
+    width: 1350px;
+    height: 150px;
+    background-color:white;
+    border-radius: 50px;
+}
+body{
+background-color: lavender;
+}
+.fon{
+    position: relative;
+    width: 1350px;
+    height: 550px;
+
+}
+.tex{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: orange;
+    font-size: 25px;
+    text-align: center;
+    font-family: "Arial Black";
+}
+
+
+.zx{
+    width: 200px;
+    height: 130px;
+}
