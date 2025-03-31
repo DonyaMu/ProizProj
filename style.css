@@ -21,7 +21,7 @@ background-color: lavender;
     color: orange;
     font-size: 25px;
     text-align: center;
-    font-family: "Arial Black";
+    font-family: Bahnschrift;
 }
 
 
@@ -36,10 +36,39 @@ background-color: lavender;
     width: 1350px;
     height: 500px;
     background-color: white;
-    display: grid;
-    place-items: center;
     border-radius: 50px;
+    margin: auto;
 }
 .conteiner{
 
+}
+
+.is{
+    padding:  50px ;
+    font-family: Bahnschrift;
+
+}
+
+
+.is:hover{
+    color: orange;
+    cursor:  pointer;
+}
+.zxz{
+    width: 600px;
+    height: 400px;
+    background-color: black;
+    border-radius: 50px;
+    margin-left: 650px;
+    margin-top: -425px;
+}
+.uz{
+   color: white;
+    font-family: Bahnschrift;
+    padding: 150px;
+    font-size: 30px;
+}
+.uz:hover{
+    color: orange;
+    cursor:  pointer;
 }
