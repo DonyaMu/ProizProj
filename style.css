@@ -88,7 +88,7 @@ li{
     margin-right: 30px;
     text-decoration: none;
 }
-a{
+ul a{
     text-decoration: none;
     font-family: Bahnschrift;
     color: orange;
@@ -96,4 +96,47 @@ a{
 }
 a:hover{
    color: grey;
+}
+
+
+.novo{
+    width: 1350px;
+    height: 160px;
+    background-color: black;
+    border-radius: 50px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.c{
+    width: 50px;
+}
+.con{
+    margin-left: 30px;
+
+}
+.novo a{
+    text-decoration: none;
+    font-family: Bahnschrift;
+    font-size: 16px;
+    color: white;
+    margin-top: -50px;
+
+}
+.novo a:hover{
+    color: orange;
+}
+.xx{
+    cursor: pointer;
+}
+
+.nnn{
+    margin-left: 50px;
+    margin-top: -30px;
+
+}
+
+.info{
+    margin-left: 700px;
+    margin-top: -60px;
 }
