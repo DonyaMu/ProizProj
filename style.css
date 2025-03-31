@@ -3,6 +3,9 @@ header{
     height: 150px;
     background-color:white;
     border-radius: 50px;
+    margin-left: 270px;
+    display: flex;
+    align-items: center;
 }
 body{
 background-color: lavender;
@@ -28,6 +31,8 @@ background-color: lavender;
 .zx{
     width: 200px;
     height: 130px;
+    margin-left: 50px;
+    margin-top: 10px ;
 }
 .xcx{
 
@@ -71,4 +76,24 @@ background-color: lavender;
 .uz:hover{
     color: orange;
     cursor:  pointer;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+
+}
+
+li{
+    margin-right: 30px;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    font-family: Bahnschrift;
+    color: orange;
+    font-size: 16px;
+}
+a:hover{
+   color: grey;
 }
