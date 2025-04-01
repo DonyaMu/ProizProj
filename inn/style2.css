@@ -12,3 +12,37 @@
     font-size: 25px;
     padding: 20px;
 }
+
+.knop{
+    border: none;
+    border-radius: 20px;
+    margin-top: 150px;
+    margin-left: 40px;
+    width: 12%;
+    height: 6%;
+    background-color: orange;
+    font-family: Bahnschrift;
+    font-size: 18px;
+}
+
+.knop:hover{
+    background-color: grey;
+    color: white;
+}
+.knop2{
+    border: none;
+    border-radius: 20px;
+    margin-top: 150px;
+    margin-left: 950px;
+    width: 12%;
+    height: 6%;
+    background-color: black;
+    color: white;
+    font-family: Bahnschrift;
+    font-size: 18px;
+}
+
+.knop2:hover{
+    background-color: grey;
+    color: white;
+}
