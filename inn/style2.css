@@ -46,3 +46,18 @@
     background-color: grey;
     color: white;
 }
+
+.pho{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    width: 60%;
+    margin: auto;
+}
+.pho img{
+    width: 100%;
+    height: auto;
+}
+
+.cx{
+}
