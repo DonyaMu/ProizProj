@@ -6,6 +6,7 @@
   <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="style2.css">
   <script src="dd.js"></script>
+  <script src="ff.js"></script>
 </head>
 <body>
 <div class="conteiner">
@@ -77,6 +78,11 @@
 
 
 </div>
-
+<script>
+  document.getElementById('formm').addEventListener('submit', function(event) {
+    event.preventDefault();
+    alert('Заявка отправлена, сообщим как рассмотрим ее!');
+  });
+</script>
 </body>
 </html>
