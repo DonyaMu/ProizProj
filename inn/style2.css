@@ -61,3 +61,42 @@
 
 .cx{
 }
+
+
+.pp{
+    font-family: Bahnschrift;
+}
+.form{
+ width: 70%;
+    margin: auto;
+}
+
+.form label {
+    display: block;
+    font-size: 20px;
+    color: orange;
+}
+
+input{
+    border-radius: 20px;
+    border: none;
+}
+
+.kkk{
+    margin: auto;
+    width: 500px;
+    height: 300px;
+    background-color: black;
+    border-radius: 20px;
+}
+
+.lll{
+    border-radius: 20px;
+    border: none;
+    color: black;
+    width: 40%;
+}
+
+.lll:hover{
+    background-color: grey;
+}
